@@ -4,6 +4,8 @@
 4. What is transform: translateX(50%)? (Move along the axis)
 5. AB and A B
 
+#Answers:
+
 1. The answer is content.
 2. Relative is to its normal position, Absolute is to its closest ancestor
 3. One is for the main axis, another is for the cross axis
